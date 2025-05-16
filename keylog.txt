@@ -1,0 +1,6 @@
+[backspace][backspace][backspace]hello[space]w[backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]ech0[space][shift_r]"hello[space]well[backspace]come[space]to[space]my[space]hose[backspace][backspace]usr[backspace]e[shift_r]"[enter][ctrl]chek[backspace]llo[space]welcom[space][enter]what[space]can[space]we[space]offer[space]you[enter][ctrl]c
+
+--- Logging started at 2025-05-15 08:40:20.492405 ---
+hello my friend 
+how are you doinf[backspace]g
+[ctrl]c
